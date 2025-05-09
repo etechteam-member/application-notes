@@ -1,1 +1,1 @@
-# application-notes
+# application life-cycle notes
